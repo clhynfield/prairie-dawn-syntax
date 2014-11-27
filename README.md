@@ -1,10 +1,9 @@
-# Solarized Dark Syntax theme
+# Prairie Twilight Syntax theme
 
-Atom theme using the ever popular dark [solarized] colors.
+Atom theme using Prairie Twilight colors based on the ever popular [solarized].
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_Syntax Themes_ dropdown menu.
+This theme can be activated by going to the _Themes_ section in the Settings
+view (`cmd-,`) and selecting it from the _Syntax Themes_ dropdown menu.
 
 ![](https://f.cloud.github.com/assets/136521/2327081/4c61f1aa-a3eb-11e3-9377-96d7837fa65a.png)
 
